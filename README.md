@@ -4,3 +4,5 @@ Implements Y.Lu's Third Type of Equations algorithm for finding small integer ro
 paper_link:https://www.iacr.org/archive/asiacrypt2015/94520198/94520198.pdf
 
 Used in DubheCTF2024 to solve CommmonRSA.
+
+![Uploading image.png…]()
