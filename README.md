@@ -7,3 +7,6 @@ Used in DubheCTF2024 to solve CommmonRSA.
 
 ![image](https://github.com/zarismine/Univariate_Equations/assets/90366333/7c264b02-11f7-4a76-a171-aa92bfeab5d9)
 
+a easy Majid_Mumtaz'method master
+paper_link:https://www.sciencedirect.com/science/article/abs/pii/S0020025520305004
+![Majid Luo](https://github.com/)
